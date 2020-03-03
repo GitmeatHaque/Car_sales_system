@@ -1,0 +1,2 @@
+This project is about old car selling system.
+In this we have a list of car and we can sell that car when user search for specific car.
